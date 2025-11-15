@@ -1,0 +1,9 @@
+# Verkefni 10
+
+## Tools used in the project are Vite and Tailwind
+
+## Console
+Check console to check the state, (hidden, visible).
+
+### **Vite**
+Run using npm run dev, npm run build or npm run preview.
